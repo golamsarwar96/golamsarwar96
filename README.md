@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Front End Web Developer</h2>
+<h2 align="left">Front End Web Developer 💻</h2>
 
 ###
 
