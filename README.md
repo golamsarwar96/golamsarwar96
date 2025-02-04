@@ -64,21 +64,12 @@
 
 <h3 align="left">Contact Me</h3>
 
-###
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=golamsarwar96&theme=gruvbox-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  </a>
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/md-golam-sarwar-20a1522ba/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100070767671286" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/golamsarwar896" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
 
 <br clear="both">
 
