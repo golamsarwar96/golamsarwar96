@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Front End Web Developer 💻</h2>
+<h2 align="left">Front End Web Developer</h2>
 
 ###
 
@@ -82,4 +82,20 @@
 
 ###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/golamsarwar96/golamsarwar96/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/golamsarwar96/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/golamsarwar96/count.svg?"  />
+</div>
+
+###
