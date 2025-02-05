@@ -20,6 +20,14 @@
 
 ###
 
+###
+
+## Currently Exploring 
+• NextJS <br/>
+• Firehouse <br/>
+
+###
+
 <h3 align="left">I Code With</h3>
 
 ###
@@ -63,6 +71,9 @@
     <img src="https://nirzak-streak-stats.vercel.app?user=golamsarwar96&theme=gruvbox-duo&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
+
+###
+
 
 ###
 
